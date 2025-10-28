@@ -1,0 +1,12 @@
+{
+  "name": "pigin-shooter",
+  "version": "1.0.0",
+  "description": "Sample Phaser.js 2D shooting game",
+  "main": "main.js",
+  "scripts": {
+    "start": "live-server --open=index.html"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
