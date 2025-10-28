@@ -1,0 +1,1 @@
+{"name":"Node.js & Phaser Dev","image":"mcr.microsoft.com/devcontainers/javascript-node:20","features":{},"forwardPorts":[8080],"postCreateCommand":"npm install","customizations":{"vscode":{"settings":{},"extensions":["esbenp.prettier-vscode"]}}}
